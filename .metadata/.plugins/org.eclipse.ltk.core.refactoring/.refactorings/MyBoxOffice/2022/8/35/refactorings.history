@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;vo.BoxOfficeVo.java&apos; to &apos;BoxOfficeVO.java&apos;&#x0D;&#x0A;- Original project: &apos;boxOffice&apos;&#x0D;&#x0A;- Original element: &apos;vo.BoxOfficeVo.java&apos;&#x0D;&#x0A;- Renamed element: &apos;vo.BoxOfficeVO.java&apos;" description="Rename compilation unit &apos;BoxOfficeVo.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;vo{BoxOfficeVo.java" name="BoxOfficeVO.java" references="false" stamp="1661147482577" version="1.0"/>
+</session>
